@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "L'Essence Dorée",
+      "brand": "Maison Luxe",
+      "price": 280,
+      "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&h=600&fit=crop",
+      "description": "Аромат, воплощающий роскошь и элегантность",
+      "notes": {
+        "top": ["бергамот", "грейпфрут"],
+        "heart": ["роза", "жасмин"],
+        "base": ["амбра", "мускус"]
+      },
+      "category": "oriental"
+    },
+    {
+      "id": 2,
+      "name": "Citrus Whisper",
+      "brand": "Lumière",
+      "price": 195,
+      "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=500&h=600&fit=crop",
+      "description": "Свежий цитрусовый аромат с нотками зелени",
+      "notes": {
+        "top": ["лимон", "манго"],
+        "heart": ["зелень", "лайм"],
+        "base": ["кедр", "сандал"]
+      },
+      "category": "citrus"
+    },
+    {
+      "id": 3,
+      "name": "Bois Vélouté",
+      "brand": "Heritage",
+      "price": 320,
+      "image": "https://images.unsplash.com/photo-1541643600914-e0fdc6c68fd0?w=500&h=600&fit=crop",
+      "description": "Теплый древесный аромат с пряными нотками",
+      "notes": {
+        "top": ["черный перец", "кориандр"],
+        "heart": ["ладан", "гвоздика"],
+        "base": ["дерево Удж", "ветивер"]
+      },
+      "category": "woody"
+    },
+    {
+      "id": 4,
+      "name": "Floral Dream",
+      "brand": "Éternel",
+      "price": 240,
+      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=500&h=600&fit=crop",
+      "description": "Волшебная смесь цветочных нот и медовых акордов",
+      "notes": {
+        "top": ["яблоко", "груша"],
+        "heart": ["пион", "кустовая роза", "гарденя"],
+        "base": ["медь", "кашмир", "белый кедр"]
+      },
+      "category": "floral"
+    },
+    {
+      "id": 5,
+      "name": "Océan Mystère",
+      "brand": "Thalassa",
+      "price": 210,
+      "image": "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=500&h=600&fit=crop",
+      "description": "Морской аромат с морскими минералами",
+      "notes": {
+        "top": ["травы", "минеральная вода"],
+        "heart": ["водоросли", "амбра"],
+        "base": ["соль морская", "дерево"]
+      },
+      "category": "aquatic"
+    },
+    {
+      "id": 6,
+      "name": "Vanille Noir",
+      "brand": "Nuit",
+      "price": 265,
+      "image": "https://images.unsplash.com/photo-1602000410514-6db7e84e87d5?w=500&h=600&fit=crop",
+      "description": "Глубокая ваниль с какао и древесными нотками",
+      "notes": {
+        "top": ["какао", "корица"],
+        "heart": ["ваниль", "карамель"],
+        "base": ["мускус", "сандал"]
+      },
+      "category": "oriental"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Maison Luxe",
+      "logo": "https://via.placeholder.com/200x100?text=Maison+Luxe",
+      "country": "Франция"
+    },
+    {
+      "id": 2,
+      "name": "Lumière",
+      "logo": "https://via.placeholder.com/200x100?text=Lumiere",
+      "country": "Франция"
+    },
+    {
+      "id": 3,
+      "name": "Heritage",
+      "logo": "https://via.placeholder.com/200x100?text=Heritage",
+      "country": "Англия"
+    },
+    {
+      "id": 4,
+      "name": "Éternel",
+      "logo": "https://via.placeholder.com/200x100?text=Eternel",
+      "country": "Швейцария"
+    },
+    {
+      "id": 5,
+      "name": "Thalassa",
+      "logo": "https://via.placeholder.com/200x100?text=Thalassa",
+      "country": "Греция"
+    },
+    {
+      "id": 6,
+      "name": "Nuit",
+      "logo": "https://via.placeholder.com/200x100?text=Nuit",
+      "country": "Франция"
+    }
+  ]
+}
